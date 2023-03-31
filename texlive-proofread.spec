@@ -1,6 +1,6 @@
 Name:		texlive-proofread
 Version:	61719
-Release:	1
+Release:	2
 Summary:	Commands for inserting annotations
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/proofread
