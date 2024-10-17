@@ -3,7 +3,7 @@ Version:	61719
 Release:	2
 Summary:	Commands for inserting annotations
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/proofread
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/proofread
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/proofread.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/proofread.doc.r%{version}.tar.xz
